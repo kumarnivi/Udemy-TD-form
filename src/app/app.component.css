@@ -1,0 +1,29 @@
+.container {
+    margin-top: 30px;
+    border-radius: 3px;
+    box-shadow: black 5px 3px 3px 5px;
+    padding: 20px;
+    padding-right: 15px;
+  }
+  
+  button{
+   margin-top: 10px;
+   background-color: goldenrod;
+   border: none;
+   box-shadow: black 0px 4px 3px 0px;
+  }
+button:hover{
+    background: gray;
+}
+
+.btn-default{
+    margin-bottom: 15px;
+}
+
+.label{
+    margin-bottom: 10px;
+}
+
+.label1{
+    margin-bottom: 10px;
+}

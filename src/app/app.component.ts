@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'udemy_form_TD';
+  suggestUserName() {
+    const suggestedName = 'Superuser';
+  }
 }
+
